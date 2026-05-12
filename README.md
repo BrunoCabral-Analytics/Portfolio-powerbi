@@ -47,8 +47,47 @@ Durante o desenvolvimento deste projeto foram praticados conceitos importantes c
 
 ### Visão Geral
 
-(cole aqui a imagem depois)
+## 🖼️ Dashboard
 
+### 📌 Visão Geral
+
+![Analise Geral](Analise%20Geral.png)
+
+---
+
+### 🌍 Análise Continental
+
+![Analise Continental](Analise%20Continental.png)
+
+---
+
+### 👨‍💼 Análise de Vendedores
+
+![Analise de Vendedor](Analise%20de%20Vendedor.png)
+
+---
+
+### 📊 Comparativo Ano Atual vs Ano Anterior
+
+![Comparativo](Comparativo%20de%20Ano%20anterior%20vs%20Ano%20atual.png)
+
+---
+
+### ⏳ Análise Temporal
+
+![Analise Temporal](Analise%20Temporal.png)
+
+---
+
+### 🎯 Tooltip Interativo
+
+![Tooltip](Analise%20Geral%20funcionamento%20do%20tooltip.png)
+
+---
+
+### 🧮 Simulação de Cenários
+
+![Simulação](Simulação.png)
 ---
 
 ## 👨‍💻 Autor
